@@ -18,7 +18,7 @@ const Home = () => {
         </p>
         <div>
           <Link to='works' smooth={true} duration={500}>
-            <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-[#FFF44F] hover:border-[#76a2d8]'>
+            <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-[#6699CC] hover:border-[#76a2d8]'>
               View Work
               <span className='group-hover:rotate-90 duration-300'>
                 <HiArrowNarrowRight className='ml-3' />
